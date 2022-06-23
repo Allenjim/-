@@ -1,0 +1,6 @@
+/* 背景 */
+.sec4 {
+	background: linear-gradient(to right top, #ffe0cc, #ff9f60);
+	min-height: 100vh;
+	background-size: 100%;
+}
